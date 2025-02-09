@@ -1,0 +1,139 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+logs/
+*.log
+chat_app_*.log
+
+# Cache
+.cache/
+.pytest_cache/
+.coverage
+htmlcov/
+__pycache__/
+
+# Streamlit
+.streamlit/
+config.toml
+
+# Redis
+dump.rdb
+redis-data/
+*.rdb
+
+# Project specific
+tmp/
+temp/
+.env.local
+.env.development
+.env.test
+.env.production
+enhanced-inference.py
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Ruff
+.ruff_cache/
+
+# Poetry
+poetry.lock
+
+# Distribution / packaging
+*.tar.gz
+*.tgz
+*.zip
+*.rar
+*.7z
+
+# Local development
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+*.bak
+*.swp
+*.swo
+*~
+
+# Docker
+.docker/
+docker-compose.override.yml
+
+# System Files
+.directory
+*.retry
+.DS_Store
+
+# Credentials
+*.pem
+*.key
+*.crt
+*.cert
+
+# Keep assets directory
+!assets/
+!assets/**
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# IDE cache
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Project cache
+.cache/
+.streamlit/
+redis-data/
+*.rdb
+
+# Coverage cache
+.coverage
+htmlcov/ 

@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "streamlit-huggingface-chat"
+version = "0.1.0"
+description = "A Streamlit-based chat interface powered by Hugging Face models"
+authors = ["Your Name <your.email@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+streamlit = "^1.31.0"
+redis = "^5.0.1"
+python-dotenv = "^1.0.1"
+requests = "^2.31.0"
+aiohttp = "^3.9.3"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api" 

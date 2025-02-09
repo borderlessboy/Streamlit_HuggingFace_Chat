@@ -4,7 +4,7 @@ A Streamlit-based chat interface powered by HuggingFace models with advanced fea
 
 ## 📸 Screenshots & Demo
 
-https://github.com/borderlessboy/Streamlit_HuggingFace_Chat/blob/master/assets/demo/Screenshot.png?raw=true
+https://github.com/borderlessboy/Streamlit_HuggingFace_Chat/blob/master/assets/demo/Screenshot.png
 
 ### Features Showcase:
 
